@@ -97,7 +97,7 @@ mitmdump -s wumpus_in_the_middle.py --listen-port=8080 --allow-hosts '^(((.+\.)?
 
 Discord executable is not in path, we need to find it manually. Open second command prompt (Windows key + R, type `cmd` and press Enter)
 ```
-cd %LocalAppData%\Discord\app-<version>\
+cd %LocalAppData%\Discord\
 cd app-
 [tab]
 [enter]
